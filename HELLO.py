@@ -1,0 +1,5 @@
+s=str(input())
+print('Hello',end=' ')
+print(s,end='')
+print('!')
+print('Hello '+s+'!')
